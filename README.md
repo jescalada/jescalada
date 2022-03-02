@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey! I'm Juan.
 
-<!--
-**jescalada/jescalada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various projects, such as our COMP 1800 project, [Travelr](https://github.com/jescalada/1800_202210_DTC15), and an [NFT project](https://github.com/jescalada/solidity-practice).
+- 🌱 I’m currently learning various front-end and back-end web technologies and Python at BCIT, as well as studying blockchain technologies (Solidity, Truffle Ganache) on my own.
+- 👯 I’m looking to collaborate on hackathons this summer! My favourite projects are blockchain-related. Our team won the Hedera blockchain project award in StormHacks 2022, with our crypto-based marketplace project, [H-mart](https://github.com/jescalada/h-mart). I learnt a lot of backend stuff (with node.js and Hedera API) as well as front-end integration (with JQuery) that weekend!
+- 🤔 I’m looking for a co-op job/internship on January 2023. Feel free to contact me for my resume.
+- 📫 Want to reach me? Send me an e-mail at [jescalada@my.bcit.ca](mailto:jescalada@my.bcit.ca).
+- 💡 Things I know a little bit about:
+  - Java (JSP)
+  - C# (in Unity)
+  - Javascript (Jquery, Socket.io, node.js, firebase API)
+  - Python (numpy, matplotlib)
+- 💡 Things I want to know more about:
+  - Blockchain frameworks
+  - Socket frameworks (to make multiplayer games, real-time collaborative tools)
+  - Backend development (node.js)
+  - Agile Development
+- ⚡ About me:
+  - I like running. My longest run was 30km without any breaks at all!
+  - Mi lengua nativa es el Español. それに日本語も話せますが、まだ勉強中です。
+  - I like investing. Probably the most costly yet also rewarding hobby I've had. 
