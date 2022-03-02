@@ -1,6 +1,6 @@
 ### Hey! I'm Juan.
 
-- 🔭 I’m currently working on various projects, such as our COMP 1800 project, [Travelr](https://github.com/jescalada/1800_202210_DTC15), and an [NFT project](https://github.com/jescalada/solidity-practice).
+- 🔭 I’m currently working on various projects: our COMP 1800 project, [Travelr](https://github.com/jescalada/1800_202210_DTC15), and an [NFT project](https://github.com/jescalada/solidity-practice).
 - 🌱 I’m currently learning various front-end and back-end web technologies and Python at BCIT, as well as studying blockchain technologies (Solidity, Truffle Ganache) on my own.
 - 👯 I’m looking to collaborate on hackathons this summer! My favourite projects are blockchain-related. Our team won the Hedera blockchain project award in StormHacks 2022, with our crypto-based marketplace project, [H-mart](https://github.com/jescalada/h-mart). I learnt a lot of backend stuff (with node.js and Hedera API) as well as front-end integration (with JQuery) that weekend!
 - 🤔 I’m looking for a co-op job/internship on January 2023. Feel free to contact me for my resume.
