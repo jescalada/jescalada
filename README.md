@@ -8,13 +8,14 @@
 - 💡 Things I know a little bit about:
   - Java (JSP)
   - C# (in Unity)
-  - Javascript (Jquery, Socket.io, node.js, firebase API)
+  - Javascript (jQuery, Socket.io, node.js, firebase API)
   - Python (numpy, matplotlib)
 - 💡 Things I want to know more about:
   - Blockchain frameworks
   - Socket frameworks (to make multiplayer games, real-time collaborative tools)
-  - Backend development (node.js)
+  - Backend development (Express.js, Flask)
   - Agile Development
+  - VR (And Blockchain applied to VR)
 - ⚡ About me:
   - I like running. My longest run was 30km without any breaks at all!
   - Mi lengua nativa es el Español. それに日本語も話せますが、まだ勉強中です。
