@@ -7,7 +7,7 @@
 - 🤔 I’m looking for a co-op job/internship on January 2023. Feel free to contact me for my resume.
 - 📫 Want to reach me? Send me an e-mail at [jescalada@my.bcit.ca](mailto:jescalada@my.bcit.ca).
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jescalada)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies
 - 💡 Things I know a little bit about:
