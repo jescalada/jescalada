@@ -19,10 +19,5 @@
   - VR development (and Blockchain applied to VR)
   - Blockchain frameworks
   - Socket frameworks (to make multiplayer games, real-time collaborative tools)
-  - Backend development (Express.js, Flask)
+  - Backend development (Express.js, Flask, Django)
   - Agile Development
-  
-### About Me
-- I like running. My longest run was 30km without any breaks at all!
-- Mi lengua nativa es el Español. それに日本語も話せますが、まだ勉強中です。
-- I like investing. Probably the most costly yet also rewarding hobby I've had. 
