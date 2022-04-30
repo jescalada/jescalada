@@ -1,23 +1,22 @@
 ### Hey! I'm Juan.
 
-- 🔭 I’m currently working on various projects: our COMP 1800 project, [Travelr](https://github.com/jescalada/1800_202210_DTC15), and an [NFT project](https://github.com/jescalada/solidity-practice).
-- 🌱 I’m currently learning various front-end and back-end web technologies and Python at BCIT, as well as studying blockchain technologies (Solidity, Truffle Ganache) on my own.
-- 👯 I’m looking to collaborate on hackathons this summer! My favourite projects are blockchain-related. Our team won the Hedera blockchain project award in StormHacks 2022, with our crypto-based marketplace project, [H-mart](https://github.com/jescalada/h-mart). I learnt a lot of backend stuff (with node.js and Hedera API) as well as front-end integration (with JQuery) that weekend!
-- 🏆 Me and my team have won two hackathons so far: StormHacks 2022 (by SFU) and Hack the Break 2022 (by BCIT). You can check our submissions [here](https://devpost.com/jescalada).
+- 🔭 I’m currently working on various projects: our COMP 2800 project, [Bonfire](https://github.com/jescalada/2800_202210_DTC17) and a [Discord bot](https://github.com/jescalada/oppai-chan/).
+- 🌱 I’m learning various technologies at BCIT, including JS frameworks and Python. I'm also learning some backend technologies such as Django on my own.
+- 👯 I’m looking to collaborate on hackathons this summer! Our team won the Hedera blockchain project award in StormHacks 2022, with our crypto-based marketplace project, [H-mart](https://github.com/jescalada/h-mart). I learnt a lot of backend stuff (express and Hedera JS SDK) as well as front-end integration that weekend!
+- 🏆 My teams and I have won two hackathons so far: StormHacks 2022 (by SFU) and Hack the Break 2022 (by BCIT). You can check our submissions [here](https://devpost.com/jescalada).
 - 🤔 I’m looking for a co-op job/internship on January 2023. Feel free to contact me for my resume.
-- 📫 Want to reach me? Send me an e-mail at [jescalada@my.bcit.ca](mailto:jescalada@my.bcit.ca).
-
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Want to reach me? Send me an e-mail at [jescalada@my.bcit.ca](mailto:jescalada@my.bcit.ca).  
+  
+<img src="https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave&count_private=true&show_icons=true">
 
 ### Technologies
 - 💡 Things I know a little bit about:
   - Java
-  - C# (Unity)
+  - C# scripting (in Unity)
   - Javascript (jQuery, Express.js, Node.js, Firebase API, Socket.io)
-  - Python (numpy, matplotlib, requests, and more!)
+  - Python (Discord API, numpy, matplotlib, requests, and more!)
 - 💡 Things I want to know more about:
-  - VR development (and Blockchain applied to VR)
-  - Blockchain frameworks
-  - Socket frameworks (to make multiplayer games, real-time collaborative tools)
   - Backend development (Express.js, Flask, Django)
+  - VR development (and Blockchain applied to VR)
+  - Socket frameworks (to make multiplayer games, real-time collaborative tools)
   - Agile Development
