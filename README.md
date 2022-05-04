@@ -5,9 +5,7 @@
 - 👯 I’m looking to collaborate on hackathons this summer! Our team won the Hedera blockchain project award in StormHacks 2022, with our crypto-based marketplace project, [H-mart](https://github.com/jescalada/h-mart). I learnt a lot of backend stuff (express and Hedera JS SDK) as well as front-end integration that weekend!
 - 🏆 My teams and I have won two hackathons so far: StormHacks 2022 (by SFU) and Hack the Break 2022 (by BCIT). You can check our submissions [here](https://devpost.com/jescalada).
 - 🤔 I’m looking for a co-op job/internship on January 2023. Feel free to contact me for my resume.
-- 📫 Want to reach me? Send me an e-mail at [jescalada@my.bcit.ca](mailto:jescalada@my.bcit.ca).  
-  
-<img src="https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave&count_private=true&show_icons=true">
+- 📫 Want to reach me? Send me an e-mail at [jescalada@my.bcit.ca](mailto:jescalada@my.bcit.ca).
 
 ### Technologies
 - 💡 Things I know a little bit about:
@@ -20,3 +18,7 @@
   - VR development (and Blockchain applied to VR)
   - Socket frameworks (to make multiplayer games, real-time collaborative tools)
   - Agile Development
+
+<img src="https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave&count_private=true&show_icons=true">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jescalada&theme=elegant&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
