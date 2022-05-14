@@ -9,10 +9,11 @@
 
 ### Technologies
 - 💡 Things I know a little bit about:
+  - Javascript (jQuery, Express.js, Node.js, DB management, Firebase API, Socket.io)
+  - Python (Discord API, numpy, matplotlib, requests, and more!)
   - Java
   - C# scripting (in Unity)
-  - Javascript (jQuery, Express.js, Node.js, Firebase API, Socket.io)
-  - Python (Discord API, numpy, matplotlib, requests, and more!)
+  - MySQL and MongoDB
 - 💡 Things I want to know more about:
   - Backend development (Express.js, Flask, Django)
   - VR development (and Blockchain applied to VR)
