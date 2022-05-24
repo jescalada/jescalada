@@ -9,16 +9,17 @@
 
 ### Technologies
 - 💡 Things I know a little bit about:
-  - Javascript (jQuery, Express.js, Node.js, DB management, Firebase API, Socket.io)
+  - Javascript (Express.js, Node.js, DB management, EJS, passport.js, Firebase API, Socket.io)
   - Python (Discord API, numpy, matplotlib, requests, and more!)
   - Java
   - C# scripting (in Unity)
-  - MySQL and MongoDB
+  - MySQL, MongoDB, Cloud DB solutions (AWS Redis, MongoDB Atlas)
+  - AWS Hosting, Heroku
 - 💡 Things I want to know more about:
   - Backend development (Express.js, Flask, Django)
   - VR development (and Blockchain applied to VR)
   - Socket frameworks (to make multiplayer games, real-time collaborative tools)
-  - Agile Development
+  - Linux and Systems Administration
 
 <img src="https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave&count_private=true&show_icons=true">
 
