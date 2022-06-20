@@ -13,7 +13,7 @@
   - Python (Flask, Discord API, numpy, matplotlib, requests, and more!)
   - Java
   - C# scripting (in Unity)
-  - MySQL, MongoDB, Cloud DB solutions (AWS Redis, MongoDB Atlas)
+  - MySQL, MongoDB, Cloud DB solutions (AWS RDS, MongoDB Atlas)
   - AWS Hosting, Heroku
 - 💡 Things I want to know more about:
   - Backend development (Flask, Django)
