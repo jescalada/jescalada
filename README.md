@@ -7,7 +7,7 @@
 
 ### Technologies
 ##### Web Dev  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,js,nodejs,express,jquery,bootstrap)](https://skillicons.dev)
 ##### DevOps  
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,nginx)](https://skillicons.dev)
 ##### Game Dev  
