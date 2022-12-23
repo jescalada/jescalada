@@ -7,15 +7,15 @@
 
 ### Technologies
 ##### Web Dev  
-[![My Skills](https://skillicons.dev/icons?i=vue,js,nodejs,express,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,vue,nodejs,express,jest,tailwind,bootstrap,jquery,firebase)](https://skillicons.dev)
+##### Databases  
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)](https://skillicons.dev)
 ##### DevOps  
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp,nginx,netlify)](https://skillicons.dev)
 ##### Game Dev  
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,visualstudio)](https://skillicons.dev)
 ##### Python-related  
 [![My Skills](https://skillicons.dev/icons?i=py,flask,django,bots)](https://skillicons.dev)
-##### Databases  
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ##### Misc.  
 [![My Skills](https://skillicons.dev/icons?i=git,github,bash,heroku,raspberrypi)](https://skillicons.dev)
 
