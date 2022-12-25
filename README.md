@@ -4,7 +4,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills
 <table><tr><td valign="top" width="33%">
 
 
@@ -75,7 +75,7 @@
 <br/>  
 
 
-## Connect with me  
+## Let's get in touch
 <div align="center">
 <a href="https://github.com/jescalada" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -92,7 +92,7 @@
 <br/>  
 
 
-## Github Stats  
+## Stats  
 <div align="center">
 
   
