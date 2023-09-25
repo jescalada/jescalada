@@ -83,7 +83,7 @@ Just another dev who loves to make stuff.
   <img src="https://github-readme-stats.vercel.app/api?username=jescalada&theme=synthwave&count_private=true&show_icons=true">
 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jescalada&hide=html,css&theme=radical&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jescalada&hide=html,css,hlsl,shaderlab,jupyter&theme=radical&langs_count=10&layout=compact&show_icons=true&size_weight=0.4&count_weight=0.6)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://komarev.com/ghpvc/?username=jescalada&&style=flat-square" align="center" />
 </div>  
